@@ -1,3 +1,53 @@
+# 🌱 EcoMind AI
+
+## Smart Urban Tree Intelligence & Pollution Analytics Platform
+
+EcoMind AI is an AI-powered GreenTech platform designed to help cities monitor pollution, analyze environmental data, and improve urban sustainability using Artificial Intelligence.
+
+## 🚀 Live Demo
+https://ecomind-ai-hackathon-project.vercel.app
+
+## 💻 GitHub Repository
+https://github.com/karansachdev02/ECOMIND-AI-Hackathon-Project
+
+## ✨ Features
+
+- 🤖 AI Environmental Chatbot
+- 🌍 Live Weather Dashboard
+- 🌫️ Air Quality Monitoring
+- 🌳 Digital Tree Twin
+- 📊 Admin Dashboard
+- 📄 PDF Report Export
+- 🎤 Voice Assistant
+- 📈 Interactive Charts
+- 🌱 Smart Plantation Suggestions
+
+## 🛠 Tech Stack
+
+Frontend:
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- Three.js
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+AI:
+- Google Gemini API
+
+Deployment:
+- Vercel
+- Render
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
