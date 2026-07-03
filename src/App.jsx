@@ -4,10 +4,9 @@ import { useEffect, useState, useRef } from "react";
 import { Canvas } from "@react-three/fiber";
 import CursorGlow from "./components/CursorGlow";
 import Tilt from "react-parallax-tilt";
-// import ParticlesBg from "./components/ParticlesBg";
+import ParticlesBg from "./components/ParticlesBg";
 import { OrbitControls, Stars } from "@react-three/drei";
 import gsap from "gsap";
-// import { loadSlim } from "@tsparticles/slim";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { motion } from "framer-motion";
 import {
